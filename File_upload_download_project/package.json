@@ -1,0 +1,15 @@
+{
+  "name": "simple-file-upload-download-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ky",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-fileupload": "^1.2.1"
+  }
+}
